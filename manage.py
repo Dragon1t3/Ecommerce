@@ -17,6 +17,6 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-# Setting up for commiting to portfolio
+# Setting up for committing to portfolio
 if __name__ == '__main__':
     main()
